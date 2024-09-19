@@ -1,0 +1,66 @@
+# Dependencias
+node_modules/
+
+# Archivos de log
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Directorio de construcción
+/dist
+
+# Directorios de cobertura
+/coverage
+
+# Archivos temporales
+.tmp/
+.temp/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de depuración
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de bloqueo de versiones (opcional, dependiendo de tu preferencia)
+# package-lock.json
+# yarn.lock
+
+# Directorios opcionales que podrías querer ignorar
+# docs/
+# dist/
+
+# Archivos de configuración local
+.eslintcache
+.stylelintcache
+
+# Archivos generados por Puppeteer
+.local-chromium/
+
+# Archivos de caché
+.cache/
+
+# Archivos de construcción
+build/
+
+# Archivos de respaldo
+*.bak
+*.backup

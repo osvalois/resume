@@ -1,0 +1,647 @@
+{
+    "header": {
+        "name": "Oscar Valois Martínez",
+        "title": "Solutions Architect & Full Stack Developer",
+        "email": "osvaloismtz@gmail.com",
+        "website": "osvalois.tech",
+        "resume": "osvalois.tech/resume"
+    },
+    "summary": "My goal is to create scalable and efficient systems that drive project success and contribute to organizational growth. I have experience leading technical teams, implementing DevSecOps practices, and optimizing development processes to improve software efficiency and quality. I constantly seek ways to apply innovative solutions to complex technological challenges.",
+    "skills": {
+        "title": "Strengths",
+        "legend": {
+            "title": "Skill Level Legend",
+            "basic": "Basic",
+            "intermediate": "Intermediate",
+            "advanced": "Advanced",
+            "expert": "Expert"
+        },
+        "categories": [
+            {
+                "name": "Cloud & DevOps",
+                "skills": [
+                    {
+                        "name": "AWS",
+                        "level": 85
+                    },
+                    {
+                        "name": "Azure",
+                        "level": 90
+                    },
+                    {
+                        "name": "GCP",
+                        "level": 85
+                    },
+                    {
+                        "name": "Kubernetes",
+                        "level": 95
+                    },
+                    {
+                        "name": "Docker",
+                        "level": 95
+                    },
+                    {
+                        "name": "Terraform",
+                        "level": 85
+                    },
+                    {
+                        "name": "Azure ML",
+                        "level": 65
+                    }
+                ]
+            },
+            {
+                "name": "Programming Languages",
+                "skills": [
+                    {
+                        "name": "Java",
+                        "level": 98
+                    },
+                    {
+                        "name": "C#",
+                        "level": 90
+                    },
+                    {
+                        "name": "Python",
+                        "level": 95
+                    },
+                    {
+                        "name": "JavaScript",
+                        "level": 92
+                    },
+                    {
+                        "name": "TypeScript",
+                        "level": 90
+                    },
+                    {
+                        "name": "Go",
+                        "level": 80
+                    }
+                ]
+            },
+            {
+                "name": "Backend Frameworks",
+                "skills": [
+                    {
+                        "name": "Spring Boot",
+                        "level": 95
+                    },
+                    {
+                        "name": ".NET Core",
+                        "level": 88
+                    },
+                    {
+                        "name": "Node.js",
+                        "level": 85
+                    },
+                    {
+                        "name": "Express.js",
+                        "level": 85
+                    },
+                    {
+                        "name": "FastAPI",
+                        "level": 80
+                    }
+                ]
+            },
+            {
+                "name": "Frontend Frameworks",
+                "skills": [
+                    {
+                        "name": "React",
+                        "level": 90
+                    },
+                    {
+                        "name": "Angular",
+                        "level": 85
+                    },
+                    {
+                        "name": "Vue.js",
+                        "level": 80
+                    },
+                    {
+                        "name": "Flutter",
+                        "level": 75
+                    }
+                ]
+            },
+            {
+                "name": "Databases",
+                "skills": [
+                    {
+                        "name": "PostgreSQL",
+                        "level": 95
+                    },
+                    {
+                        "name": "MongoDB",
+                        "level": 90
+                    },
+                    {
+                        "name": "Redis",
+                        "level": 85
+                    },
+                    {
+                        "name": "DynamoDB",
+                        "level": 80
+                    },
+                    {
+                        "name": "Cosmos DB",
+                        "level": 80
+                    }
+                ]
+            },
+            {
+                "name": "SecDevOps",
+                "skills": [
+                    {
+                        "name": "SAST/DAST",
+                        "level": 90
+                    },
+                    {
+                        "name": "Penetration Testing",
+                        "level": 85
+                    },
+                    {
+                        "name": "Security Automation",
+                        "level": 95
+                    },
+                    {
+                        "name": "Threat Modeling",
+                        "level": 80
+                    },
+                    {
+                        "name": "Compliance as Code",
+                        "level": 85
+                    }
+                ]
+            },
+            {
+                "name": "AI & Machine Learning",
+                "skills": [
+                    {
+                        "name": "TensorFlow",
+                        "level": 75
+                    },
+                    {
+                        "name": "PyTorch",
+                        "level": 70
+                    },
+                    {
+                        "name": "Scikit-learn",
+                        "level": 70
+                    },
+                    {
+                        "name": "NLP",
+                        "level": 75
+                    }
+                ]
+            },
+            {
+                "name": "Other Technologies",
+                "skills": [
+                    {
+                        "name": "GraphQL",
+                        "level": 85
+                    },
+                    {
+                        "name": "REST APIs",
+                        "level": 95
+                    },
+                    {
+                        "name": "gRPC",
+                        "level": 80
+                    },
+                    {
+                        "name": "Apache Kafka",
+                        "level": 85
+                    },
+                    {
+                        "name": "RabbitMQ",
+                        "level": 80
+                    },
+                    {
+                        "name": "Jupyter Notebooks",
+                        "level": 90
+                    },
+                    {
+                        "name": "MLflow",
+                        "level": 85
+                    }
+                ]
+            }
+        ]
+    },
+    "experience": [
+        {
+            "title": "Solutions Architect and Developer",
+            "company": "Hergom Systems",
+            "period": "June 2023 - Present",
+            "projects": [
+                "Online Travel Administrator",
+                "AFORES Management and Administration System",
+                "Financial Core",
+                "Digital Origination Platform"
+            ],
+            "responsibilities": [
+                "Design and implementation of microservices architectures for high availability systems",
+                "Leadership in the adoption of SecDevOps practices and optimization of CI/CD pipelines",
+                "Implementation of AI solutions for analysis and optimization of algorithms",
+                "Conducting security audits and optimization of technological solutions"
+            ],
+            "achievements": [
+                "Reduction in deployment times through optimization of CI/CD processes",
+                "Improvement in the efficiency of critical algorithms thanks to the implementation of AI-based analysis",
+                "Design and implementation of a secure and scalable architecture"
+            ],
+            "technologies": [
+                "C#",
+                "Java",
+                "Python",
+                ".NET Core",
+                "Spring Boot",
+                "TypeScript",
+                "JavaScript",
+                "ReactJs",
+                "VueJs",
+                "Flutter",
+                "Azure AKS",
+                "Azure Functions",
+                "Azure Logic Apps",
+                "Azure API Management",
+                "Azure Service Bus",
+                "Azure Cosmos DB",
+                "AWS EKS",
+                "AWS Lambda",
+                "AWS DynamoDB",
+                "AWS API Gateway",
+                "AWS Bedrock",
+                "AWS Glue",
+                "Azure DevOps",
+                "AWS CodeCommit",
+                "Terraform",
+                "ARM templates",
+                "OWASP ZAP",
+                "SonarQube",
+                "Metasploit",
+                "Nessus",
+                "Burp Suite",
+                "Azure Monitor",
+                "Application Insights",
+                "Prometheus",
+                "Grafana",
+                "Docker",
+                "Kubernetes",
+                "Helm",
+                "Azure Container Registry/Instances",
+                "Docker Swarm",
+                "GraphQL",
+                "REST",
+                "Azure SQL",
+                "Cosmos DB",
+                "PostgreSQL",
+                "Redis",
+                "Azure Storage",
+                "AWS S3",
+                "Azure Active Directory",
+                "Key Vault",
+                "Security Center",
+                "DevOps",
+                "Agile (Scrum)",
+                "Microservices",
+                "Event-Driven Architecture"
+            ]
+        },
+        {
+            "title": "Solutions Architect",
+            "company": "FINANCIERA INDEPENDENCIA",
+            "period": "January 2021 - June 2023",
+            "projects": [
+                "Credit Origination System",
+                "Payment Management Platform",
+                "Financial Core",
+                "Financial Services Orchestration"
+            ],
+            "responsibilities": [
+                "Design and implementation of enterprise solution architectures",
+                "Leadership in defining technological standards and best development practices",
+                "Development of critical components using cutting-edge front-end and back-end technologies",
+                "Implementation of infrastructure as code and advanced DevOps practices"
+            ],
+            "achievements": [
+                "Improvement of system scalability through the implementation of a microservices architecture",
+                "Reduction in development time through the implementation of best practices and automation tools",
+                "Decrease in critical security vulnerabilities in financial applications"
+            ],
+            "technologies": [
+                "Google Cloud Platform (GCP)",
+                "Compute Engine",
+                "Kubernetes Engine",
+                "Cloud Functions",
+                "BigQuery",
+                "Cloud Storage",
+                "Cloud Pub/Sub",
+                "Azure DevOps",
+                "Azure Policy",
+                "Azure Security Center",
+                "Confluent",
+                "Apache Kafka",
+                "On-Premise",
+                "Prometheus",
+                "Grafana",
+                "ELK Stack",
+                "Docker",
+                "Kubernetes",
+                "Helm",
+                "Google Kubernetes Engine (GKE)",
+                "Anthos",
+                "Java (8, 11, 17)",
+                "Python",
+                "Spring Framework 5",
+                "Spring Boot",
+                "TypeScript",
+                "JavaScript (ES6+)",
+                "Angular",
+                "React",
+                "Flutter",
+                "Java Android",
+                "GraphQL",
+                "REST",
+                "gRPC",
+                "Cloud SQL",
+                "PostgreSQL",
+                "MongoDB",
+                "Redis",
+                "Oracle",
+                "SQL Server",
+                "Apache Spark",
+                "Airflow",
+                "Key Vault",
+                "Google Cloud IAM",
+                "OAuth 2.0",
+                "Cloud VPN",
+                "ExpressRoute",
+                "DevOps",
+                "Agile (Scrum)",
+                "Microservices",
+                "Event-Driven Architecture",
+                "Site Reliability Engineering (SRE)",
+                "SonarQube",
+                "JUnit",
+                "Mockito"
+            ]
+        },
+        {
+            "title": "Developer and Technical Leader",
+            "company": "IMPERIO DIGITAL",
+            "period": "January 2020 - January 2021",
+            "projects": [
+                "Credit Origination",
+                "Payment System",
+                "Digital Transformation"
+            ],
+            "responsibilities": [
+                "Technical leadership of agile multifunctional development teams",
+                "Design and implementation of event-driven microservices architecture",
+                "Development and optimization of high concurrency and low latency systems",
+                "Implementation of DevSecOps practices and automation of CI/CD pipelines",
+                "Mentoring and training of junior and mid-level developers"
+            ],
+            "achievements": [
+                "Reduction in payment processing time through the implementation of an event-driven microservices architecture",
+                "Increase in credit approval rate through digitalization of processes",
+                "Improvement in system availability through the implementation of fault-tolerant architectures",
+                "Reduction in infrastructure costs through optimization of cloud resources and auto-scaling strategies"
+            ],
+            "technologies": [
+                "Google Cloud Platform (GCP)",
+                "Compute Engine",
+                "Kubernetes Engine",
+                "Cloud Functions",
+                "BigQuery",
+                "Cloud Storage",
+                "Cloud Pub/Sub",
+                "Apache Kafka",
+                "Prometheus",
+                "Grafana",
+                "Docker",
+                "Kubernetes",
+                "Helm",
+                "Java (8, 11, 17)",
+                "Python",
+                "Spring Framework 5",
+                "Spring Boot",
+                "TypeScript",
+                "JavaScript (ES6+)",
+                "Angular",
+                "React",
+                "Flutter",
+                "REST",
+                "gRPC",
+                "Cloud SQL",
+                "PostgreSQL",
+                "MongoDB",
+                "Redis",
+                "Oracle",
+                "SQL Server",
+                "Cloud Pub/Sub",
+                "Kafka",
+                "Airflow",
+                "Cloud VPN",
+                "ExpressRoute",
+                "DevOps",
+                "Agile (Scrum)",
+                "Microservices",
+                "Event-Driven Architecture",
+                "Site Reliability Engineering (SRE)",
+                "SonarQube",
+                "JUnit",
+                "Mockito"
+            ]
+        },
+        {
+            "title": "Developer and Technical Leader",
+            "company": "Kleverness",
+            "period": "February 2019 - January 2020",
+            "projects": [
+                "Software for intelligent lighting application control",
+                "Electronic Product Production Management Platform"
+            ],
+            "responsibilities": [
+                "Design and implementation of microservices architecture for intelligent lighting control systems",
+                "Development of high-performance RESTful APIs for communication between IoT devices and the central platform",
+                "Implementation of real-time data processing for lighting event management",
+                "Design and implementation of distributed data architecture for device data storage and analysis",
+                "Technical leadership of the development team, including mentoring and definition of coding standards"
+            ],
+            "achievements": [
+                "Reduction in energy consumption of lighting systems through the implementation of optimized algorithms",
+                "Increase in system availability thanks to the microservices architecture and implemented SRE practices",
+                "Optimization of infrastructure costs through the implementation of auto-scaling and serverless computing strategies in AWS"
+            ],
+            "technologies": [
+                "AWS EC2",
+                "AWS ECS",
+                "AWS Lambda",
+                "AWS S3",
+                "AWS DynamoDB",
+                "AWS RDS",
+                "AWS CloudWatch",
+                "Java with Spring Boot",
+                "Python",
+                "scikit-learn",
+                "TensorFlow",
+                "Go",
+                "JavaScript",
+                "TypeScript",
+                "React",
+                "Amazon DynamoDB",
+                "Amazon RDS",
+                "PostgreSQL",
+                "Amazon Elasticsearch Service",
+                "RabbitMQ",
+                "Docker",
+                "Amazon ECS",
+                "AWS CodePipeline",
+                "AWS CodeBuild",
+                "AWS CodeDeploy",
+                "AWS IAM",
+                "AWS KMS",
+                "OAuth 2.0",
+                "JWT",
+                "AWS CodeCommit",
+                "Agile Scrum",
+                "Domain-Driven Design (DDD)"
+            ]
+        },
+        {
+            "title": "Developer",
+            "company": "Kode",
+            "period": "September 2016 - July 2018",
+            "projects": [
+                "Automated Fiscal Information Extraction System",
+                "Data Integration and Visualization Platform"
+            ],
+            "responsibilities": [
+                "Design and implementation of microservices architecture for automated extraction and processing of fiscal data",
+                "Implementation of text processing algorithms for extracting information from fiscal documents in various formats",
+                "Creation of RESTful APIs for integration of extracted data with third-party systems",
+                "Design and implementation of a data warehouse for efficient storage of large volumes of fiscal data",
+                "Development of interactive dashboards and dynamic reports for visualization of extracted data and process metrics"
+            ],
+            "achievements": [
+                "Reduction in time dedicated to manual capture of fiscal data through the implementation of automated extraction bots",
+                "Increase in accuracy of extracted data compared to previous manual processes",
+                "Decrease in operational costs associated with collection and processing of fiscal information",
+                "Improvement in the speed of generating fiscal and financial reports thanks to the implementation of real-time dashboards"
+            ],
+            "technologies": [
+                "Node.js",
+                "Express",
+                "React.js",
+                "Java",
+                "TypeScript",
+                "REST",
+                "PostgreSQL",
+                "MongoDB",
+                "OAuth 2.0",
+                "JWT",
+                "Docker",
+                "Kubernetes",
+                "Jenkins",
+                "Scrum",
+                "DataOps",
+                "DevOps",
+                "Agile"
+            ]
+        },
+        {
+            "title": "Developer and Technical Leader",
+            "company": "Transactions (TACTS)",
+            "period": "September 2016 - July 2018",
+            "clients": [
+                "VF Corporation",
+                "Rotoplas",
+                "G500",
+                "Gas Uribe",
+                "Hilti",
+                "Protectio"
+            ],
+            "projects": [
+                "Trainspotting Management System",
+                "Warehouse Management System",
+                "Human Resources Management System"
+            ],
+            "responsibilities": [
+                "Technical leadership in the design and implementation of business management systems using SOA and MVC architectures",
+                "Development of high-performance applications for integration with third-party ERP and CRM systems",
+                "Implementation of functionalities using Java to modularize critical business functionalities",
+                "Design and optimization of SQL databases for efficient handling of large volumes of real-time data",
+                "Development of responsive and high-performance user interfaces using AngularJS",
+                "Code and performance audits to identify and resolve bottlenecks in systems",
+                "Implementation of advanced security protocols, including authentication and encryption of sensitive data"
+            ],
+            "achievements": [
+                "Significant reduction in order processing times in the warehouse management system through optimization of algorithms and data structures",
+                "Improvement in system efficiency",
+                "Decrease in implementation time of new features thanks to the adoption of agile methodologies"
+            ],
+            "technologies": [
+                "Java",
+                "C#",
+                "JavaScript",
+                "AngularJS",
+                "Java Android",
+                "Python",
+                "SQL Server",
+                "Windows Server",
+                "Service-Oriented Architecture (SOA)",
+                "Scrum",
+                "Data in Transit Encryption",
+                "Data at Rest Encryption"
+            ]
+        }
+    ],
+    "highlights": [
+        {
+            "title": "Architecture Optimization",
+            "description": "Implementation of architectures that improve system scalability and reduce maintenance costs."
+        },
+        {
+            "title": "Innovation with AI",
+            "description": "Integration of AI models for algorithm analysis, resulting in increased efficiency of systems and business processes."
+        },
+        {
+            "title": "Security Improvement",
+            "description": "Implementation of advanced security protocols that reduced critical vulnerabilities, complying with the highest international standards."
+        },
+        {
+            "title": "CI/CD Optimization",
+            "description": "Design and implementation of CI/CD pipelines that reduced deployment times and improved the quality of delivered code."
+        }
+    ],
+    "education": {
+        "degree": "Computer Systems Engineer",
+        "institution": "TESCI",
+        "period": "2014-2018",
+        "description": "Dual model program since 2016, combining rigorous academic training with practical industry experience, which allowed me to develop technical and leadership skills from the early stages of my career."
+    },
+    "languages": [
+        {
+            "name": "English",
+            "skills": [
+                {
+                    "name": "Speaking",
+                    "level": 70
+                },
+                {
+                    "name": "Writing",
+                    "level": 80
+                },
+                {
+                    "name": "Reading",
+                    "level": 90
+                }
+            ]
+        }
+    ]
+}
